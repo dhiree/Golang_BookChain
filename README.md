@@ -18,4 +18,3 @@ This project is a simple blockchain implementation using Go, designed to manage 
 1. Clone the repository:
    ```sh
    git clone https://github.com/dhiree/Golang_BookChain.git
-# Golang_BookChain
